@@ -1,4 +1,14 @@
 .box{
-	width: 250px;
-	height: 300px;
+	width: 350px;
+	height: 400px;
+	background-color: salmon;
+	margin: 5px auto;
+}
+
+button{
+	margin: 0px 100px;
+}
+
+form{
+	padding: 0px 10px;
 }
